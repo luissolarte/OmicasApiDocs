@@ -1,1 +1,1 @@
-1. ## Arquictetura Plataforma PhenoAgro
+1. ## Arquitectura Plataforma PhenoAgro
